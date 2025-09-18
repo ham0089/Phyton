@@ -1,10 +1,9 @@
-# Variables
 user_name = "Juan Dela Cruz"
 user_age = 28
 user_height = 1.75
 is_student = True
 
-# operation
+
 addition_result = user_age + user_height  
 
 print("= DATA TYPE INFORMATION =")
