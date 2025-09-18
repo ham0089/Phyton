@@ -1,0 +1,5 @@
+print("Name: Laurence Ham A. Catalan")
+print("Age: 23")
+print("Height: 1.75 meters")
+print("City: alcala, pangasinan")
+print("Student Status: True")
